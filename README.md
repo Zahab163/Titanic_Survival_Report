@@ -8,6 +8,7 @@ This project dives into the historical Titanic dataset to uncover the patterns b
 
 To analyze the Titanic dataset and identify key factors influencing survival using Python, data visualization, and machine learning. The goal is to present findings in a way that is both educational and emotionally resonant.
 
+## [Live Demo](https://youtu.be/WHCoLtxq5-8)
 ## 📂 Project Contents
 
 - `Titanic_Survival_Report.ipynb`: Main analysis notebook
@@ -81,4 +82,4 @@ Survival rates varied significantly based on embarkation port:
 AI & Data Science Enthusiast | Educator | Motivational Content Creator  
 📍 Karachi, Pakistan  
 🎓 SMIT | Udacity | HP LIFE   
-🔗 [LinkedIn] | [YouTube Channel](  | [GitHub Profile]
+🔗 [LinkedIn](https://www.linkedin.com/in/zahabia-ahmed-digitalmarketer-pythonenthusiast) | [YouTube Channel](http://www.youtube.com/@ZahabiaAhmed)  | [GitHub Profile](https://github.com/Zahab163) | Mail Me: zahabia0ahmed@gmail.com
